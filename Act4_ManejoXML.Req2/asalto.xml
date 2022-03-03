@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Movimiento>
+    <identificador>0</identificador>
+    <cuidad>Moscú</cuidad>
+    <seguidores>
+        <seguidor>
+            <id>0</id>
+            <nombre>Adam</nombre>
+            <ideologias>Putismo</ideologias>
+            <lider id="0">
+                <nombre>Vladimir</nombre>
+                <apellidos>Putin</apellidos>
+                <edad>70</edad>
+                <ideologias>Putismo</ideologias>
+            </lider>
+        </seguidor>
+        <seguidor>
+            <id>1</id>
+            <nombre>Gleb</nombre>
+            <ideologias>Putismo</ideologias>
+            <lider id="0">
+                <nombre>Vladimir</nombre>
+                <apellidos>Putin</apellidos>
+                <edad>70</edad>
+                <ideologias>Putismo</ideologias>
+            </lider>
+        </seguidor>
+        <seguidor>
+            <id>2</id>
+            <nombre>Marfa</nombre>
+            <ideologias>Putismo</ideologias>
+            <lider id="0">
+                <nombre>Vladimir</nombre>
+                <apellidos>Putin</apellidos>
+                <edad>70</edad>
+                <ideologias>Putismo</ideologias>
+            </lider>
+        </seguidor>
+        <seguidor>
+            <id>3</id>
+            <nombre>Ioann</nombre>
+            <ideologias>Putismo</ideologias>
+            <lider id="0">
+                <nombre>Vladimir</nombre>
+                <apellidos>Putin</apellidos>
+                <edad>70</edad>
+                <ideologias>Putismo</ideologias>
+            </lider>
+        </seguidor>
+        <seguidor>
+            <id>4</id>
+            <nombre>Larisa</nombre>
+            <ideologias>Putismo</ideologias>
+            <lider id="0">
+                <nombre>Vladimir</nombre>
+                <apellidos>Putin</apellidos>
+                <edad>70</edad>
+                <ideologias>Putismo</ideologias>
+            </lider>
+        </seguidor>
+        <seguidor>
+            <id>5</id>
+            <nombre>Miloslav</nombre>
+            <ideologias>Putismo</ideologias>
+            <lider id="0">
+                <nombre>Vladimir</nombre>
+                <apellidos>Putin</apellidos>
+                <edad>70</edad>
+                <ideologias>Putismo</ideologias>
+            </lider>
+        </seguidor>
+    </seguidores>
+</Movimiento>
